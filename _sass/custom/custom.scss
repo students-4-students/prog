@@ -3,3 +3,39 @@
   align-items: flex-start;
   justify-content: center;
 }
+
+.note,
+.warning {
+  padding: 20px 24px;
+  margin: 1.5em 0;
+  border-left: 8px solid black;
+}
+
+.note {
+  color: #312e81;
+  border-color: #6366f1;
+  background-color: #e0e7ff;
+}
+
+.warning {
+  color: #78350f;
+  border-color: #fbbf24;
+  background-color: #fef3c7;
+}
+
+.note::before,
+.warning::before {
+  display: block;
+  margin-bottom: .5em;
+  font-weight: 600;
+  letter-spacing: .02em;
+  text-transform: uppercase;
+}
+
+.note::before {
+  content: 'Note';
+}
+
+.warning::before {
+  content: 'Avertissement';
+}
