@@ -22,6 +22,8 @@ github_username: "pre-rentree"
 # Build settings
 markdown: kramdown
 theme: "just-the-docs"
+plugins:
+  - jekyll-seo-tag
 
 # Exclude from processing.
 exclude:

@@ -1,4 +1,16 @@
 .site-title {
+  padding-left: 15px;
+}
+
+.site-title img {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  margin-right: .5em;
+}
+
+.site-title-content {
+  display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
