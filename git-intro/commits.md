@@ -2,7 +2,7 @@
 layout: default
 title: Utiliser les commits
 parent: "Partie 2 : Introduction à Git"
-nav_order: 3
+nav_order: 2
 permalink: /git-intro/commits
 ---
 

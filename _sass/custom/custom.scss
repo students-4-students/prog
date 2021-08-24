@@ -18,7 +18,8 @@
 }
 
 .note,
-.warning {
+.warning,
+.tip {
   padding: 20px 24px;
   margin: 1.5em 0;
   border-left: 8px solid black;
@@ -36,19 +37,33 @@
   background-color: #fef3c7;
 }
 
-.note::before,
-.warning::before {
-  display: block;
+.tip {
+  color: #064E3B;
+  border-color: #10b981;
+  background-color: #d1fae5;
+}
+
+.note header,
+.warning header,
+.tip header {
   margin-bottom: .5em;
   font-weight: 600;
   letter-spacing: .02em;
   text-transform: uppercase;
 }
 
-.note::before {
-  content: 'Note';
+.note.indent,
+.warning.indent,
+.tip.indent {
+  margin-left: 1.5em;
 }
 
-.warning::before {
-  content: 'Avertissement';
+.note p:last-child,
+.warning p:last-child,
+.tip p:last-child {
+  margin-bottom: 0;
+}
+
+figure {
+  margin: 1.5em 0;
 }
