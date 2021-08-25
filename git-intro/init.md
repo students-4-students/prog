@@ -56,7 +56,7 @@ Remplis le formulaire *“Create a New Repository”* comme ceci :
 </div>
 
 <figure>
-  <img src="{{ site.url }}/assets/init.png" alt="La fenêtre “Create a New Repository”">
+  <img src="{{ '/assets/init.png' | relative_url }}" alt="La fenêtre “Create a New Repository”">
 </figure>
 
 Une fois que tu as tout rempli, clique sur ***Create Repository***. Et voilà, ton dépôt est créé !
