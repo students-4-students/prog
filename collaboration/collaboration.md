@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Partie 4 : Travailler à plusieurs"
+title: "Partie 4 : Collaborer"
 nav_order: 4
 has_children: true
 permalink: /collaboration/
 ---
 
-# Travailler à plusieurs
+# Collaborer
 @TODO

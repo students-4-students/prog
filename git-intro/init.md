@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Initialiser un nouveau dépôt
+title: Nouveau dépôt
 parent: "Partie 2 : Introduction à Git"
 nav_order: 1
 permalink: /git-intro/init
