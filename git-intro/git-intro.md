@@ -16,5 +16,10 @@ Avec Git, tu peux notamment :
 
 Git a été créé en 2005 par Linus Torvalds (qui est aussi le créateur de Linux !). Aujourd’hui, c’est devenu un outil indispensable pour le développement logiciel, utilisé par plus de 93% des développeurs et développeuses dans le monde (selon le [sondage Stack Overflow 2021](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-other-tools)).
 
+<div class="note">
+  <header>Note</header>
+  <p>Le <em>g</em> de Git se prononce comme le <em>g</em> de <em>grenouille</em> (ou de <em>get</em> en anglais).</p>
+</div>
+
 Nous pensons que cette présentation pourra t’être très utile, alors profite bien de ce merveilleux outil !
 
