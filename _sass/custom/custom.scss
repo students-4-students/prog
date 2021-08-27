@@ -26,21 +26,21 @@
 }
 
 .note {
-  color: #312e81;
-  border-color: #6366f1;
-  background-color: #e0e7ff;
+  color: #1E3A8A;
+  border-color: #60A5FA;
+  background-color: #EFF6FF;
 }
 
 .warning {
   color: #78350f;
-  border-color: #fbbf24;
-  background-color: #fef3c7;
+  border-color: #FCD34D;
+  background-color: #FFFBEB;
 }
 
 .tip {
   color: #064E3B;
-  border-color: #10b981;
-  background-color: #d1fae5;
+  border-color: #34D399;
+  background-color: #ECFDF5;
 }
 
 .note header,
@@ -48,8 +48,29 @@
 .tip header {
   margin-bottom: .5em;
   font-weight: 600;
-  letter-spacing: .02em;
+  letter-spacing: .05em;
   text-transform: uppercase;
+}
+
+.note a,
+.note header {
+  color: #1E40AF;
+}
+
+.warning a,
+.warning header {
+  color: #92400E;
+}
+
+.tip a,
+.tip header {
+  color: #065F46;
+}
+
+.note a:not([class]):hover,
+.warning a:not([class]):hover,
+.tip a:not([class]):hover {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%);
 }
 
 .note.indent,
