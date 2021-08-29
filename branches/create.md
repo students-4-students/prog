@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nouvelle branche
-parent: "Partie 3 : Branches"
+parent: "Partie 4 : Branches"
 nav_order: 1
 permalink: /branches/create
 ---

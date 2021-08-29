@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gérer les remotes
-parent: "Partie 4 : Collaborer"
+parent: "Partie 5 : Collaborer"
 nav_order: 2
 permalink: /collaboration/remotes
 ---

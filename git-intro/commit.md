@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Effectuer un commit
-parent: "Partie 2 : Introduction à Git"
+parent: "Partie 3 : Introduction à Git"
 nav_order: 2
 permalink: /git-intro/commit
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Partie 2 : Introduction à Git"
-nav_order: 2
+title: "Partie 3 : Introduction à Git"
+nav_order: 3
 has_children: true
 permalink: /git-intro/
 ---

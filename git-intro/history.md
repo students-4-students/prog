@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Visualiser l’historique
-parent: "Partie 2 : Introduction à Git"
+parent: "Partie 3 : Introduction à Git"
 nav_order: 3
 permalink: /git-intro/history
 ---
