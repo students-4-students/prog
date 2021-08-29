@@ -33,7 +33,7 @@ Remplis le formulaire *“Create a New Repository”* comme ceci :
 <div class="tip indent">
   <header>Bon à savoir</header>
   <p>
-    Souvent, les projets de programmation contiennent un fichier nommé README (en français : <em>Lisez-moi</em>) qui contiennent une brève présentation du projet ainsi que d’autres informations utiles.
+    Souvent, les projets de programmation contiennent un fichier nommé README (en français : <em>Lisez-moi</em>) qui contiennent une brève présentation du projet ainsi que d’autres informations utiles.
   </p>
 </div>
 
@@ -56,7 +56,7 @@ Remplis le formulaire *“Create a New Repository”* comme ceci :
 </div>
 
 <figure>
-  <img src="{{ '/assets/init.png' | relative_url }}" alt="La fenêtre “Create a New Repository”">
+  <img src="../assets/init.png" alt="La fenêtre “Create a New Repository”">
 </figure>
 
-Une fois que tu as tout rempli, clique sur ***Create Repository***. Et voilà, ton dépôt est créé !
+Une fois que tu as tout rempli, clique sur **Create Repository**. Et voilà, ton dépôt est créé !

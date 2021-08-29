@@ -122,7 +122,7 @@ Si tu n’es pas en faculté IC, il existe également des versions d’IntelliJ 
   * **Sous Linux** : Décompresse l’archive *.tar.gz* téléchargée, puis suis les instructions dans le fichier *Install-Linux-tar.txt*.
 * Une fois que tu as l’écran **“Welcome to IntelliJ IDEA”**, l’installation est terminée !
 
-![Écran “Welcome to IntelliJ IDEA”]({{ '/assets/idea-welcome.png' | relative_url }})
+![Écran “Welcome to IntelliJ IDEA”](../assets/idea-welcome.png)
 
 <a name="idea-edu"></a>
 ### Installer une licence éducation pour IntelliJ IDEA Ultimate, PyCharm ou CLion <small>(facultatif)</small>
