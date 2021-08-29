@@ -1,3 +1,7 @@
+:root {
+  color-scheme: light dark;
+}
+
 .site-title {
   padding-left: 15px;
   padding-right: 15px;
@@ -15,6 +19,16 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
+}
+
+.site-subtitle {
+  color: #5c5962;
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-subtitle {
+    color: #c8c5c9;
+  }
 }
 
 .note,
@@ -67,6 +81,41 @@
   color: #065F46;
 }
 
+@media (prefers-color-scheme: dark) {
+  .note {
+    color: #dceafe;
+    border-color: #2563eb;
+    background-color: #1e398a;
+  }
+
+  .warning {
+    color: #fffbeb;
+    border-color: #f59e0c;
+    background-color: #78350f;
+  }
+
+  .tip {
+    color: #ecfdf5;
+    border-color: #049669;
+    background-color: #064e3b;
+  }
+
+  .note a,
+  .note header {
+    color: #bfdbfe;
+  }
+
+  .warning a,
+  .warning header {
+    color: #fcd34d;
+  }
+
+  .tip a,
+  .tip header {
+    color: #6ee7b7;
+  }
+}
+
 .note a:not([class]):hover,
 .warning a:not([class]):hover,
 .tip a:not([class]):hover {
@@ -93,4 +142,10 @@ blockquote {
   margin-left: 0;
   padding-left: 1em;
   border-left: 5px solid #e6e1e8;
+}
+
+@media (prefers-color-scheme: dark) {
+  blockquote {
+    border-color: #959396;
+  }
 }
