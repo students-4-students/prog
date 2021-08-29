@@ -108,6 +108,14 @@ Si tu n’es pas en faculté IC, il existe également des versions d’IntelliJ 
 
 * Commence par te rendre sur <a href="https://www.jetbrains.com/idea/download" target="_blank">jetbrains.com/idea/download</a>.
 * En dessous de **Community**, clique sur le bouton **Download** noir.
+
+<div class="tip indent">
+  <header>Conseil</header>
+  <p>
+    Ce téléchargement peut prendre du temps. N’hésite pas à commencer la partie <em><a href="github-desktop" target="_blank">Installer GitHub Desktop</a></em> en attendant qu’il se termine.
+  </p>
+</div>
+
 * Ensuite, selon ton système d’exploitation :
   * **Sous Windows** : Ouvre le ficher *.exe* téléchargé, et suis les instructions de l’assistant d’installation. Tu peux laisser tous les réglages par défaut. À la fin, coche la case *Run IntelliJ IDEA Community Edition*.
   * **Sous macOS** : Ouvre le fichier *.dmg* téléchargé. Dans la fenêtre qui s’ouvre, glisse l’icône *IntelliJ IDEA CE* sur l’icône *Applications*. Ensuite, ferme la fenêtre, puis ouvre *IntelliJ IDEA CE* depuis le dossier *Applications* de ton Mac.
@@ -118,11 +126,6 @@ Si tu n’es pas en faculté IC, il existe également des versions d’IntelliJ 
 
 <a name="idea-edu"></a>
 ### Installer une licence éducation pour IntelliJ IDEA Ultimate, PyCharm ou CLion <small>(facultatif)</small>
-
-@TODO
-
-<a name="other"></a>
-### Installer PyCharm ou CLion pour l’éducation <small>(pour les autres sections)</small>
 
 @TODO
 
