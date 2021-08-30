@@ -149,3 +149,9 @@ blockquote {
     border-color: #959396;
   }
 }
+
+#markdown-toc a {
+  overflow: inherit;
+  text-overflow: inherit;
+  white-space: inherit;
+}
