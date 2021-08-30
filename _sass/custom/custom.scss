@@ -161,3 +161,28 @@ blockquote {
   text-overflow: inherit;
   white-space: inherit;
 }
+
+.next-page {
+  display: block;
+  position: relative;
+  max-width: 320px;
+  padding: 1em;
+  background: #f5f6fa;
+  border-radius: 8px;
+  margin-left: auto;
+
+  color: inherit;
+}
+
+.next-page span {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 0;
+  right: 0;
+  width: 64px;
+  height: 100%;
+  font-size: 36px;
+  font-weight: bold;
+}
