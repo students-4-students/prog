@@ -167,11 +167,27 @@ blockquote {
   position: relative;
   max-width: 320px;
   padding: 1em;
-  background: #f5f6fa;
+  background-color: #f5f6fa;
   border-radius: 8px;
   margin-left: auto;
 
   color: inherit;
+
+  transition: .1s ease-in-out background-color;
+
+  &:hover {
+    background-color: #eeebee;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .next-page {
+    background-color: #302d36;
+
+    &:hover {
+      background-color: #44434d;
+    }
+  }
 }
 
 .next-page span {
