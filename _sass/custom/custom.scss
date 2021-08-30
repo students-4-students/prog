@@ -21,12 +21,14 @@
   justify-content: center;
 }
 
-.site-subtitle {
+.site-subtitle,
+figcaption {
   color: #5c5962;
 }
 
 @media (prefers-color-scheme: dark) {
-  .site-subtitle {
+  .site-subtitle,
+  figcaption {
     color: #c8c5c9;
   }
 }
@@ -136,6 +138,10 @@
 
 figure {
   margin: 1.5em 0;
+}
+
+figcaption {
+  font-size: .8em;;
 }
 
 blockquote {
