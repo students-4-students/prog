@@ -9,7 +9,7 @@ permalink: /install/intellj-idea
 # Installer IntelliJ IDEA
 {: .no_toc }
 
-IntelliJ IDEA est un éditeur de code très puissant édité par la société JetBrains. Il est excellent pour travailler avec le langage Java, avec lequel tu travailleras en 1<sup>re</sup> année dans la section *Informatique* ou *Sciences de communication*.
+IntelliJ IDEA est un éditeur de code très puissant édité par la société JetBrains. Il est excellent pour travailler avec le langage Java, avec lequel tu travailleras en 1<sup>re</sup> année dans la section *Informatique* ou *Systèmes de communication*.
 
 On dit parfoit d’IntelliJ IDEA que c’est un IDE (de l’anglais *integrated development environment*). Cela signifie qu’il propose de nombreuses fonctionnalités en plus de l’édition de code, comme un compilateur (qui permet de préparer ton code pour l’exécuter) et un débogueur (un outil qui aide à trouver les bugs dans tes programmes).
 
