@@ -24,7 +24,7 @@ Git a été créé en 2005 par Linus Torvalds (qui est aussi le créateur de Lin
 Nous pensons que cette présentation pourra t’être très utile, alors profite bien de ce merveilleux outil !
 
 <figure>
-  <img src="../assets/undraw-version-control.svg" alt="">
-  <figcaption>Illustration par <a href="https://undraw.co/" target="_blank">unDraw</a>.</figcaption>
+  <img src="../assets/storyset-version-control.svg" alt="">
+  <figcaption>Illustration par <a href="https://storyset.com" target="_blank">Storyset</a>.</figcaption>
 </figure>
 
