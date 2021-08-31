@@ -51,7 +51,7 @@ Remplis le formulaire *“Create a New Repository”* comme ceci :
 <div class="note indent">
   <header>Note</header>
   <p>
-    Si tu as envie de plus d’informations sur les différentes licences, le site <a href="https://choosealicence.com" target="_blank">choosealicence.com</a> édité par GitHub offre un bon résumé.
+    Si tu as envie de plus d’informations sur les différentes licences, le site <a href="https://choosealicense.com" target="_blank">choosealicense.com</a> édité par GitHub offre un bon résumé.
   </p>
 </div>
 
