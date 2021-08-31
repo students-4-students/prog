@@ -12,7 +12,7 @@ IntelliJ est un logiciel qui te facilitera la vie, à condition que tu saches co
 
 ## Gestionnaire de project
 
-![Fenêtre de démarrage IntelliJ](./assets/intellij-ui1.png)
+![Fenêtre de démarrage IntelliJ](../assets/intellij-ui1.png)
 
 Le **gestionnaire de projet** regroupe l'ensemble des fichiers contenus dans le dossier du projet. Situé à droite, il te permettra de gérer les fichiers des différentes classes de ton programme (tu ne tarderas pas à découvrir ce concept). Tu pourras aussi y retrouver tous types de fichiers dont ton projet aura besoin (images, sons...).
 
@@ -25,7 +25,7 @@ Le **gestionnaire de projet** regroupe l'ensemble des fichiers contenus dans le 
 
 ## Gérer les paramètres du projet
 
-![Fenêtre de paramètres projet](./assets/intellij-ui2.png)
+![Fenêtre de paramètres projet](../assets/intellij-ui2.png)
 
 En cliquant sur l'engrenage en haut à droite, il est possible d'accéder à différentes fenêtres contextuelles de paramètres. Celle qui nous intéresse ici s'appelle *Project Structure*. Grâce à cette fenêtre, tu peux modifier le nom du projet ou le JDK qu'il utilise, mais aussi installer une bibliothèque java ou configurer un *Artifact*, un fichier de sortie pour le projet (zip ou jar, tu verras par la suite).
 
@@ -38,7 +38,7 @@ En cliquant sur l'engrenage en haut à droite, il est possible d'accéder à dif
 
 ## Autres outils
 
-![Fenêtre de paramètres projet](./assets/intellij-ui3.png)
+![Fenêtre de paramètres projet](../assets/intellij-ui3.png)
 
 Tout en bas de la fenêtre se trouvent des outils fort utiles :
 * Le *Terminal* permet d'exécuter des lignes de commandes dans le dossier du projet.
