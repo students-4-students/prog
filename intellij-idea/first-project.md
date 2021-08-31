@@ -13,7 +13,7 @@ Commençons par ouvrir IntelliJ et créer le premier projet de programmation Jav
 ## Initialiser le projet et installation du JDK
 * Première étape : créer un nouveau projet (Si l'interface est en anglais, *New Project*)
 
-![Fenêtre de démarrage IntelliJ](./assets/home-intellij.jpg)
+![Fenêtre de démarrage IntelliJ](../assets/home-intellij.jpg)
 
 Pour pouvoir développer des applications en Java, tu vas devoir installer un **JDK** (Java Development Kit). Il existent plusieurs versions et plusieurs éditeurs de JDK, mais pour ton utilisation nous te recommandons d'installer **OpenJDK 11**.
 
@@ -26,7 +26,7 @@ Pour pouvoir développer des applications en Java, tu vas devoir installer un **
 
 * Pour installer le OpenJDK 11, sélectionner *Download JDK* dans le menu déroulant intitulé *Project SDK*.
 
-![Emplacement sélection JDK](./assets/jdk-prj.png)
+![Emplacement sélection JDK](../assets/jdk-prj.png)
 
 * Une fenêtre d'options va apparaître. Sélectionner la **Version 11**  et **AdoptOpenJDK** comme *Vendor*. Inutile de modifier le dossier d'installation. Installer à présent le JDK en cliquant sur *Download*
 
@@ -34,6 +34,6 @@ Pour pouvoir développer des applications en Java, tu vas devoir installer un **
 
 * Sélectionner deux fois *Next* pour arriver à la partie configuration finale du projet. Nous intitulerons le projet **"Hello-World"**. Tu peux décider de créer le projet dans le dossier que tu souhaites avec *Project location*.
 
-![Finalisation de la création du projet](./assets/project-setup.jpg)
+![Finalisation de la création du projet](../assets/project-setup.jpg)
 
 Et voilà ! Une fois que tu auras appuyé sur *Finish*, ton projet sera créer.
