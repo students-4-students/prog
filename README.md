@@ -31,4 +31,4 @@ Pour installer une instance du site en local (par exemple pour tester des modifi
 Tes contributions sont les bienvenues ! N’hésite pas à créer un *fork* du dépôt, puis à créer une *pull request* pour suggérer des modifications.
 
 ## Licence
-Ce dépôt et son contenu est publié sous licence MIT. Consulte le fichier `LICENSE` pour plus d’informations.
+Ce dépôt et son contenu sont publiés sous licence MIT. Consulte le fichier `LICENSE` pour plus d’informations.
