@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Utiliser les pull requests
+title: Faire une pull request
 parent: "Partie 5 : Collaborer"
 nav_order: 3
 permalink: /collaboration/pull-request
 ---
 
-# Utiliser les *pull requests*
+# Faire une *pull request*
 {: .no_toc }
 
 Lors de la partie précédente, nous avons vu comment fusionner des branches. Une **pull request**[^1] permet à quelqu’un de **demander** à ce qu’une branche soit fusionnée à une autre. Cette demande s’affichera alors sur la page *Pull requests* de ton dépôt sur GitHub, et elle pourra être ensuite acceptée ou refusée.
