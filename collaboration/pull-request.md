@@ -9,7 +9,7 @@ permalink: /collaboration/pull-request
 # Faire une *pull request*
 {: .no_toc }
 
-Lors de la partie précédente, nous avons vu comment fusionner des branches. Une **pull request**[^1] permet à quelqu’un de **demander** à ce qu’une branche soit fusionnée à une autre. Cette demande s’affichera alors sur la page *Pull requests* de ton dépôt sur GitHub, et elle pourra être ensuite acceptée ou refusée.
+Lors de la [partie précédente](../branches/merge), nous avons vu comment fusionner des branches. Une **pull request**[^1] permet à quelqu’un de **demander** à ce qu’une branche soit fusionnée à une autre. Cette demande s’affichera alors sur la page *Pull requests* de ton dépôt sur GitHub, et elle pourra être ensuite acceptée ou refusée.
 
 [^1]: Pour information, la même fonctionnalité est appelée *merge request* sur GitLab.
 
@@ -115,7 +115,5 @@ Clique sur le bouton vert (par défaut **Merge pull request**), puis sur le bout
 
   <img src="../assets/pr-merge.svg" alt="Modes de fusion">
 </div>
-
-![Modes de fusion](../assets/pr-merge.svg)
 
 ## Notes de bas de page
