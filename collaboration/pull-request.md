@@ -2,7 +2,7 @@
 layout: default
 title: Faire une pull request
 parent: "Partie 5 : Collaborer"
-nav_order: 3
+nav_order: 4
 permalink: /collaboration/pull-request
 ---
 
