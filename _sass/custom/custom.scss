@@ -69,6 +69,12 @@ figcaption {
 }
 
 .note a,
+.warning a,
+.tip a {
+  font-weight: 500;
+}
+
+.note a,
 .note header {
   color: #1E40AF;
 }
@@ -124,9 +130,7 @@ figcaption {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%);
 }
 
-.note.indent,
-.warning.indent,
-.tip.indent {
+.indent {
   margin-left: 1.5em;
 }
 
