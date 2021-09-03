@@ -69,6 +69,12 @@ figcaption {
 }
 
 .note a,
+.warning a,
+.tip a {
+  font-weight: 500;
+}
+
+.note a,
 .note header {
   color: #1E40AF;
 }
