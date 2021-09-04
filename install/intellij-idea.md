@@ -129,6 +129,15 @@ Si tu n’es pas en faculté IC, il existe également des versions d’IntelliJ 
 <a name="idea-edu"></a>
 ### Installer une licence éducation pour IntelliJ IDEA Ultimate, PyCharm ou CLion <small>(facultatif)</small>
 
-@TODO
+Si tu as besoin d’un des éditeurs payants de JetBrains pour ton travail à l’EPFL, tu peux obtenir une licence « éducation » gratuitement :
+
+* Rends-toi sur <a href="https://www.jetbrains.com/shop/eform/students" target="_blank">jetbrains.com/shop/eform/students</a>.
+* Sélectionne **University email address** et remplis le formulaire en utilisant ton adresse e-mail <em>@epfl.ch</em>.
+<div class="tip indent">
+  <header>Astuce</header>
+  <p>Si tu possèdes le <a href="https://education.github.com/pack" target="_blank"><em>GitHub Student Developer Pack</em></a>, tu peux utiliser à la place ton compte GitHub pour prouver ton statut. Ce pack est un ensemble d’offres gratuites utiles pour les études en informatique, n’hésite pas à aller jeter un œil à l’occasion !</p>
+</div>
+* Tu recevras ensuite un e-mail de confirmation. Clique sur le lien qu’il contient, puis crée un compte JetBrains quand on te le propose.
+* Tu peux maintenant télécharger l’éditeur de ton choix. La première fois que tu le démarres, connecte-toi avec le compte JetBrains que tu viens de créer.
 
 ## Notes de bas de page
