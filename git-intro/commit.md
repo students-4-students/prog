@@ -24,7 +24,7 @@ Lorsque tu as initialisé ton dépôt, GitHub Desktop a automatiquement effectu�
 
 Nous allons maintenant faire une modification dans le projet, puis créer un commit qui la contiendra.
 
-* Rends-toi dans IntelliJ et modifie ton projet. Tu peux par exemple changer le texte qui s’affiche lorsque tu lances le programme. N’oublie pas d’enregistrer le fichier !
+* Rends-toi dans IntelliJ IDEA et modifie ton projet. Tu peux par exemple changer le texte qui s’affiche lorsque tu lances le programme. N’oublie pas d’enregistrer le fichier !
 * Dans GitHub Desktop, les fichiers que tu as modifiés s’affichent dans la colonne de gauche. Tu peux décocher des fichiers pour ne pas les inclure dans le commit que tu t’apprêtes à faire.
 
 ![Fenêtre de GitHub Desktop affichant les changements effectués](../assets/commit-changes.png)

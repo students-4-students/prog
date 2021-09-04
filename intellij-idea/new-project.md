@@ -8,12 +8,12 @@ permalink: /intellij-idea/new-project
 
 # Créer un projet
 
-Commençons par ouvrir IntelliJ et créer le premier projet de programmation Java que tu réaliseras cette année. Le but de ce dernier sera simple : afficher sur la console une simple phrase "Hello world". Il va cependant être nécessaire de préparer un peu le terrain avant de passer au code.
+Commençons par ouvrir IntelliJ IDEA et créer le premier projet de programmation Java que tu réaliseras cette année. Le but de ce dernier sera simple : afficher sur la console une simple phrase "Hello world". Il va cependant être nécessaire de préparer un peu le terrain avant de passer au code.
 
 ## Initialiser le projet et installation du JDK
 * Première étape : créer un nouveau projet (Si l'interface est en anglais, *New Project*)
 
-![Fenêtre de démarrage IntelliJ](../assets/home-intellij.jpg)
+![Fenêtre de démarrage d’IntelliJ IDEA](../assets/home-intellij.jpg)
 
 Pour pouvoir développer des applications en Java, tu vas devoir installer un **JDK** (Java Development Kit). Il existent plusieurs versions et plusieurs éditeurs de JDK, mais pour ton utilisation nous te recommandons d'installer **OpenJDK 11**.
 

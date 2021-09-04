@@ -8,17 +8,17 @@ permalink: /intellij-idea/run
 
 # Exécuter un programme
 
-Maintenent que le projet a été configuré et que tu as eu un aperçu des fonctionnalités d'IntelliJ, il est temps de réaliser ton premier programme en Java.
+Maintenent que le projet a été configuré et que tu as eu un aperçu des fonctionnalités d'IntelliJ IDEA, il est temps de réaliser ton premier programme en Java.
 
-## Créer un fichier sur IntelliJ
+## Créer un fichier sur IntelliJ IDEA
 Comme expliqué précédemment, ton code doit se trouver dans le dossier ***src***. Nous allons donc ajouter un fichier à ce dossier. Pour cela, fait un clique droit sur *src* dans le *gestionnaire de projet* et sélectionne *New*>*Java Class*. Donne lui le nom **"HelloWorld"**.
 
 ![Création du fichier](../assets/file-created.png)
 
-IntelliJ génère automatiquement l'entête de la classe comme ci-dessus. Il ne reste plus qu'à écrire notre code.
+IntelliJ IDEA génère automatiquement l'entête de la classe comme ci-dessus. Il ne reste plus qu'à écrire notre code.
 
 ## Coder or not coder
-Le plus incroyable lorsqu'on utilise un IDE comme IntelliJ, ce sont les **suggestions** et **l'autocomplétion**. Avec de simples astuces, tu vas être en mesure de coder deux fois plus vite que toute ta promo ! Pour réaliser le programme qui doit afficher "Hello World !" et observer la puissance d'IntelliJ, voyons deux méthodes pour écrire le même code.
+Le plus incroyable lorsqu'on utilise un IDE comme IntelliJ IDEA, ce sont les **suggestions** et **l'autocomplétion**. Avec de simples astuces, tu vas être en mesure de coder deux fois plus vite que toute ta promo ! Pour réaliser le programme qui doit afficher "Hello World !" et observer la puissance d'IntelliJ IDEA, voyons deux méthodes pour écrire le même code.
 
 #### 1 ) Coder mot par mot :
 * Entre les crochets de la classe - le conteneur de ton programme -, insère la fonction `main` suivante :
@@ -50,7 +50,7 @@ Ton programme est donc prêt à être exécuté, testons le dès à présent.
 
 ## Exécuter un programme
 
-Si tu regardes bien dans le coin supérieur droit, tu peux trouver une sorte de bouton "play" grisé. Il ne sert pour le moment à rien puisqu'il faut configurer l'exécution avec *Add Configuration...* . Mais encore une fois, IntelliJ va tout faire à notre place.
+Si tu regardes bien dans le coin supérieur droit, tu peux trouver une sorte de bouton "play" grisé. Il ne sert pour le moment à rien puisqu'il faut configurer l'exécution avec *Add Configuration...* . Mais encore une fois, IntelliJ IDEA va tout faire à notre place.
 
 * Clique  sur l'un des deux boutons "play" situés juste à la gauche de ton code puis *Run 'HelloWorld.main()'*. Cela va directement exécuter la fonction `main`.
 

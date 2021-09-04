@@ -8,11 +8,11 @@ permalink: /intellij-idea/ui
 
 # Découvrir l’interface
 
-IntelliJ est un logiciel qui te facilitera la vie, à condition que tu saches comment l'utiliser. Dans cette section, nous allons voir les différentes parties de l'interface qui te seront utiles.
+IntelliJ IDEA est un logiciel qui te facilitera la vie, à condition que tu saches comment l'utiliser. Dans cette section, nous allons voir les différentes parties de l'interface qui te seront utiles.
 
 ## Gestionnaire de project
 
-![Fenêtre de démarrage IntelliJ](../assets/intellij-ui1.png)
+![Fenêtre de démarrage d’IntelliJ IDEA](../assets/intellij-ui1.png)
 
 Le **gestionnaire de projet** regroupe l'ensemble des fichiers contenus dans le dossier du projet. Situé à droite, il te permettra de gérer les fichiers des différentes classes de ton programme (tu ne tarderas pas à découvrir ce concept). Tu pourras aussi y retrouver tous types de fichiers dont ton projet aura besoin (images, sons...).
 
