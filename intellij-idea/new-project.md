@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Créer votre premier projet
+title: Créer un projet
 parent: "Partie 2 : IntelliJ IDEA"
 nav_order: 1
-permalink: /intellij-idea/first-project
+permalink: /intellij-idea/new-project
 ---
 
-# Créer votre premier projet
+# Créer un projet
 
 Commençons par ouvrir IntelliJ et créer le premier projet de programmation Java que tu réaliseras cette année. Le but de ce dernier sera simple : afficher sur la console une simple phrase "Hello world". Il va cependant être nécessaire de préparer un peu le terrain avant de passer au code.
 

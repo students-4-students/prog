@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Créer un programme en Java
+title: Exécuter un programme
 parent: "Partie 2 : IntelliJ IDEA"
 nav_order: 3
-permalink: /intellij-idea/hello-world
+permalink: /intellij-idea/run
 ---
 
-# Créer un programme en Java
+# Exécuter un programme
 
 Maintenent que le projet a été configuré et que tu as eu un aperçu des fonctionnalités d'IntelliJ, il est temps de réaliser ton premier programme en Java.
 

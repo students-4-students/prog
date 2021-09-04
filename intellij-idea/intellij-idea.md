@@ -2,6 +2,7 @@
 layout: default
 title: "Partie 2 : IntelliJ IDEA"
 nav_order: 2
+has_children: true
 permalink: /intellij-idea/
 ---
 

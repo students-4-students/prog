@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Découvrir l'environnement de développement
+title: Découvrir l’interface
 parent: "Partie 2 : IntelliJ IDEA"
 nav_order: 2
-permalink: /intellij-idea/discover-intellij
+permalink: /intellij-idea/ui
 ---
 
-# Découvre l'environnement de développement
+# Découvrir l’interface
 
 IntelliJ est un logiciel qui te facilitera la vie, à condition que tu saches comment l'utiliser. Dans cette section, nous allons voir les différentes parties de l'interface qui te seront utiles.
 
