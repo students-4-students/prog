@@ -8,32 +8,22 @@ permalink: /intellij-idea/new-project
 
 # Créer un projet
 
-Commençons par ouvrir IntelliJ IDEA et créer le premier projet de programmation Java que tu réaliseras cette année. Le but de ce dernier sera simple : afficher sur la console une simple phrase "Hello world". Il va cependant être nécessaire de préparer un peu le terrain avant de passer au code.
+Commençons par ouvrir IntelliJ IDEA et créer le premier projet de programmation Java que tu réaliseras cette année. Le but de ce dernier sera simple : afficher sur la console la simple phrase « Hello world ». Il va cependant être nécessaire de préparer un peu le terrain avant de passer au code.
 
-## Initialiser le projet et installation du JDK
-* Première étape : créer un nouveau projet (Si l'interface est en anglais, *New Project*)
+Pour pouvoir développer des applications en Java, tu vas devoir installer une version du **JDK** (*Java Development Kit*). C’est un ensemble de composants logiciels dont ton ordinateur aura besoin pour compiler et exécuter ton projet. IntelliJ IDEA peut télécharger et configurer le JDK à ta place, c’est ce que nous allons faire maintenant.
 
-![Fenêtre de démarrage d’IntelliJ IDEA](../assets/home-intellij.jpg)
+## Marche à suivre
 
-Pour pouvoir développer des applications en Java, tu vas devoir installer un **JDK** (Java Development Kit). Il existent plusieurs versions et plusieurs éditeurs de JDK, mais pour ton utilisation nous te recommandons d'installer **OpenJDK 11**.
+* Depuis la fenêtre de démarrage d’IntelliJ IDEA, clique sur **New project**.
 
-<div class="Note">
-  <header>Le Java Development Kit ?</header>
-  <p>
-    Cela va peut-être te paraître encore un peu obscure, mais tout vas bien se passer ne panique pas. Le JDK est un ensemble d'outils et bibliothèques de base de Java qui permettront à ton ordinatinateur de compiler et d'exécuter ton projet et d'utiliser des fonctionnalités grâce aux "bibliothèques" Java.
-  </p>
-</div>
+* Assure-toi que *Java* est sélectionné dans la colonne de gauche, puis sélectionne **Download JDK** dans le menu déroulant *Project SDK*.
+  ![Emplacement de “Download JDK”](../assets/jdk-download.png)
 
-* Pour installer le OpenJDK 11, sélectionner *Download JDK* dans le menu déroulant intitulé *Project SDK*.
+* Une fenêtre d'options va apparaître. Sélectionne la **version 11** (c’est celle qui va être utilisée en cours), et **AdoptOpenJDK** sous *Vendor*. Tu n’as pas besoin de modifier le dossier d'installation. Clique ensuite sur **Download**.
+  ![Les options à spécifier](../assets/jdk-options.png)
 
-![Emplacement sélection JDK](../assets/jdk-prj.png)
+* Une fois le JDK installé, sélectionne deux fois *Next* pour arriver à l’écran ci-dessous. Nous intitulerons le projet **hello-world**. Tu peux décider de créer le projet dans le dossier que tu souhaites avec *Project location*. Il n’est pas nécessaire de toucher les réglages dans la partie *More Settings*.
 
-* Une fenêtre d'options va apparaître. Sélectionner la **Version 11**  et **AdoptOpenJDK** comme *Vendor*. Inutile de modifier le dossier d'installation. Installer à présent le JDK en cliquant sur *Download*
+![Finalisation de la création du projet](../assets/project-setup.png)
 
-## Dernières options
-
-* Sélectionner deux fois *Next* pour arriver à la partie configuration finale du projet. Nous intitulerons le projet **"Hello-World"**. Tu peux décider de créer le projet dans le dossier que tu souhaites avec *Project location*.
-
-![Finalisation de la création du projet](../assets/project-setup.jpg)
-
-Et voilà ! Une fois que tu auras appuyé sur *Finish*, ton projet sera créer.
+Et voilà ! Une fois que tu auras appuyé sur **Finish**, ton projet sera créé.
