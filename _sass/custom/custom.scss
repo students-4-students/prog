@@ -35,6 +35,7 @@ figcaption {
 
 .note,
 .warning,
+.error,
 .tip {
   padding: 20px 24px;
   margin: 1.5em 0;
@@ -45,6 +46,12 @@ figcaption {
   color: #1E3A8A;
   border-color: #60A5FA;
   background-color: #EFF6FF;
+}
+
+.error {
+  color: #8a1e1e;
+  border-color: #fa6060;
+  background-color: #ffefef;
 }
 
 .warning {
@@ -60,6 +67,7 @@ figcaption {
 }
 
 .note header,
+.error header,
 .warning header,
 .tip header {
   margin-bottom: .5em;
@@ -69,9 +77,15 @@ figcaption {
 }
 
 .note a,
+.error a,
 .warning a,
 .tip a {
   font-weight: 500;
+}
+
+.error a,
+.error header {
+  color: #af1e1e;
 }
 
 .note a,
@@ -108,6 +122,12 @@ figcaption {
     background-color: #064e3b;
   }
 
+  .error {
+    color: #fdecec;
+    border-color: #960404;
+    background-color: #4e0606;
+  }
+
   .note a,
   .note header {
     color: #bfdbfe;
@@ -122,10 +142,16 @@ figcaption {
   .tip header {
     color: #6ee7b7;
   }
+
+  .error a,
+  .error header {
+    color: #e76e6e;
+  }
 }
 
 .note a:not([class]):hover,
 .warning a:not([class]):hover,
+.error a:not([class]):hover,
 .tip a:not([class]):hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%);
 }
@@ -136,6 +162,7 @@ figcaption {
 
 .note p:last-child,
 .warning p:last-child,
+.error p:last-child,
 .tip p:last-child {
   margin-bottom: 0;
 }
