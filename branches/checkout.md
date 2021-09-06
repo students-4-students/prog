@@ -35,10 +35,10 @@ Si vous avez des modifications que vous souhaitez ammener dans la nouvelle branc
     git stash pop
 ```
 
-* La commande `git add -A` va simplement placer toutes les modifications comme "*prêtes à être commit*"
-* Le `git stash` à pour but d'enregistrer les modifications à part et de revenir au point d'avant les modifications
-* Le `git checkout` change de branche
-* Enfin le `git stash pop` prends les modifications que l'on as préhalablement mis de côté et les reproduits sur la branches actuelles !
+* La commande `git add -A` marque simplement toutes les modifications comme "*prêtes à être commises*"
+* Le `git stash` à pour but d'enregistrer les modifications ailleurs et de revenir au point ou était la branche avant les modifications (depuis le dernier `commit`)
+* Le `git checkout` change la branche courrante
+* Enfin le `git stash pop` prends les modifications que l'on a préhalablement mis de côté et les reproduits sur la branches courrante !
 
 <div class="note indent">
   <header>Note</header>
