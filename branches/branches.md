@@ -22,4 +22,20 @@ Pendant ce temps, les autres branches pourront évoluer librement chacune de leu
 
 ![Fonctionnement des branches sous Git](../assets/branches.svg)
 
+## Un autre exemple
+Imagine que tu dois travailler sur une nouvelle fonctionnalité d’une application que nous appellerons *Feature 05*, tu crées pour ce faire une branche nommée `feature-05` (oui nous autres programmeurs, débordons d'imagination). Soudain, ton coéquipier te signale que la fonctionnalité *Feature 03* ne fonctionne pas.
+
+Grâce à *Git*, tu n'es pas obligée d'écrire le correctif directement sur la branche en cours (`feature-05`). Tu peux tout d'abord changer de branche et te mettre sur la `master` puis créer une nouvelle branche `hotfix-feature-03` depuis la `master` (branche qui n'aura pas encore les modifications apportées à `feature-05`). Tu résous ensuite le bug sur la branche `hotfix-feature-03` sans te préoccuper de *Feature 05* (étape très sympathique). Et une fois que les modifications sont faite tu fusionne la branche `hotfix-feature-03` à la `master`, et voilà !!
+
+<div class="note indent">
+  <header>Note</header>
+  <p>
+    Si tu veux tes correctifs de bug, dans la branche <code>feature-05</code> il te faut ensuite fusionner la <code>master</code> à cette branche, via un <code>git merge</code>
+  </p>
+</div>
+
+
+<hr>
+
 [^1]: Le nom utilisé par défaut pour la branche principal a longtemps été *master*. Ce nom est actuellement en train d’être remplacé par *main* pour éviter la terminologie liée à l’esclavagisme (*maître*/*esclave*) dont il était issu. Les nouveaux dépôts créés sur GitHub ou avec GitHub Desktop <a href="https://github.com/github/renaming" target="_blank">utilisent désormais *main*</a>, et un changement similaire est en train d’être effectué <a href="https://lore.kernel.org/git/xmqqa6vf437i.fsf@gitster.c.googlers.com/T/#t" target="_blank">dans Git lui-même</a>.
+
