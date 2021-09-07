@@ -11,7 +11,6 @@ permalink: /branches/create
 Dans cette partie nous allons découvrir comment creer une nouvelle branche. Pour ce faire nous vous montrerons trois méthodes différentes (Github-Desktop, GitHub, et grâce au bon vieux terminal)
 * [Depuis GitHub-Desktop](#créer-une-branche-grâce-à-github-desktop)
 * [Depuis GitHub](#créer-une-branche-grâce-à-github)
-* [Depuis le Terminal](#créer-une-branche-grâce-au-terminal)
 
 ## Créer une branche grâce à Github Desktop
 
@@ -36,20 +35,3 @@ Connectez-vous à [github](https://github.com/login) puis sélectionné le dép�
     Grâce à cette technique la branche et directement créer à <i>l'origin</i>. Néanmoins elle n'apparaitra immédiatement localement. En effet pour celà il faut mettre à jour le dépot soit en appuyant sur le bouton <b>Fetch Origin</b>, sur <i>GitHub Desktop</i> soit via la commande <code>git fetch</code>
   </p>
 </div>
-
-## Créer une branche grâce au Terminal
-
-Pour créer une branche *en locale* simplement entrez la commande suivante
-
-```sh
-git branch <nom-de-votre-branche>
-```
-
-<div class="note indent">
-  <header>Note</header>
-  <p>
-    Le nom de votre branche ne doit pas contenir d'espace ! Utilisez des - en lieux et places. Par exemple au lieux de nommez votre branche <code>Hot Fix features</code> nommez-là <code>hot-fix-features</code>
-  </p>
-</div>
-
-
