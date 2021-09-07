@@ -13,7 +13,7 @@ IntelliJ IDEA est un logiciel qui te facilitera la vie, à condition que tu sach
 
 <hr>
 ## Table des matières
-{: .no_toc }
+{: .no_toc.text-delta }
 1. TOC
 {:toc}
 <hr>

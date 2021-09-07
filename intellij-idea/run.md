@@ -13,7 +13,7 @@ Maintenent que le projet a été configuré et que tu as eu un aperçu des fonct
 
 <hr>
 ## Table des matières
-{: .no_toc }
+{: .no_toc.text-delta }
 1. TOC
 {:toc}
 <hr>

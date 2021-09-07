@@ -25,7 +25,7 @@ On dit parfoit d’IntelliJ IDEA que c’est un IDE (de l’anglais *integrated 
 
 <hr>
 ## Table des matières
-{: .no_toc }
+{: .no_toc.text-delta }
 1. TOC
 {:toc}
 <hr>
