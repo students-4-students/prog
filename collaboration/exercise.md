@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Exercice : Modifie ce site"
+title: "Exercice : modifie ce site"
 parent: "Partie 5 : Collaborer"
 nav_order: 5
 permalink: /collaboration/exercise
