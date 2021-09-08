@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: "Students 4 Students : programmation"
 lang: "fr"
-baseurl: "/prog"
-url: "https://students-4-students.github.io"
-github_username: "pre-rentree"
+baseurl: ""
+url: "https://prog.s4s.fun/"
+github_username: "students-4-students"
 
 # Build settings
 markdown: kramdown
