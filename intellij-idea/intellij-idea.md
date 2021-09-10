@@ -14,7 +14,7 @@ Pour découvrir IntelliJ IDEA, nous allons réaliser un programme simple du type
 <div class="note">
   <header>Hello world, quésaco ?</header>
   <p>
-    Une tradition répandue dans le milieu de la programmation veut que pour faire la démonstration d’un nouveau langage de programmation, on écrit un programme qui affiche le texte <a href="https://fr.wikipedia.org/wiki/Hello_world" target="_blank">« Hello world »</a> à l’écran. C’est ce que nous allons faire tout bientôt !
+    Une tradition répandue dans le milieu de la programmation veut que pour faire la démonstration d’un nouveau langage de programmation, on écrive un programme qui affiche le texte <a href="https://fr.wikipedia.org/wiki/Hello_world" target="_blank">« Hello world »</a> à l’écran. C’est ce que nous allons faire tout bientôt !
   </p>
 </div>
 
