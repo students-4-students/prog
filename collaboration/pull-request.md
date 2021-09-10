@@ -78,7 +78,11 @@ OK, maintenant changeons de rôle : on va entrer dans la peau de la personne qu
 
 <div class="tip">
   <header>Astuce</header>
-  <p>Pour la plupart des <em>pull requests</em> modifiant du code, tu auras besoin d’importer le code modifié dans ton éditeur de code local pour tester les changements. Tu peux le faire très simplement en cliquant sur le bouton vert <strong>Code</strong> en haut à droite de la page, puis en cliquant sur <strong>Checkout with GitHub Desktop</strong>.</p>
+  <p>Pour la plupart des <em>pull requests</em> modifiant du code, tu auras besoin d’importer le code modifié dans ton éditeur de code local pour tester les changements.</p>
+  <p>Heureusement, GitHub Desktop a un onglet <strong>Pull Requests</strong> dans le <a href="../branches/manage#créer-une-branche">sélecteur de branches</a>, qui te permet de sélectionner la <em>pull request</em> comme branche active.</p>
+  <p>Cela fonctionne même si la branche est sur un <a href="github#créer-un-fork"><em>fork</em></a> du dépôt !</p>
+
+  <img src="../assets/pr-checkout.png" alt="Onglet “Pull Requests” du sélecteur de branches">
 </div>
 
 Lorsque tu te rens dans l’onglet *Files changed* sur la page de la *pull request*, tu vois la liste des modifications qui ont été apportées.
