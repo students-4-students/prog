@@ -8,7 +8,7 @@ permalink: /branches/manage
 
 # Gérer ses branches
 
-Comme discuté dans la partie précédente les branches sont des outils qui rendent git aussi incontournable. Dans cette section tu vas découvrir comment créer, changer et supprimer ces branches, 
+Comme discuté dans la partie précédente les branches sont des outils qui rendent git aussi incontournable. Dans cette section tu vas découvrir comment créer ces branches, et changer la branche courrante 
 
 
 ## Créer une branche grâce à Github Desktop
