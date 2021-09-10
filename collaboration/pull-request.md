@@ -81,7 +81,7 @@ OK, maintenant changeons de rôle : on va entrer dans la peau de la personne qu
   <p>Pour la plupart des <em>pull requests</em> modifiant du code, tu auras besoin d’importer le code modifié dans ton éditeur de code local pour tester les changements. Tu peux le faire très simplement en cliquant sur le bouton vert <strong>Code</strong> en haut à droite de la page, puis en cliquant sur <strong>Checkout with GitHub Desktop</strong>.</p>
 </div>
 
-Lorsque tu te rens dans l’onglet *Files changed* sur la page de la *pull request*, tu vois la liste des modifications qui ont été apportées.
+Lorsque tu te rends dans l’onglet *Files changed* sur la page de la *pull request*, tu vois la liste des modifications qui ont été apportées.
 
 ![Affichage des modifications apportées par une pull request sur GitHub](../assets/pr-changes.png)
 
