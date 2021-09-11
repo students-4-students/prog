@@ -8,3 +8,4 @@ permalink: /install/
 
 # Installation
 Bienvenue ! Nous allons commencer la journée par installer deux logiciels qui te seront utiles pour les cours de programmation de 1<sup>re</sup> année.
+
