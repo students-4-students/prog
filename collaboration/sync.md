@@ -69,3 +69,10 @@ Enfin, lorsque tu as faits des commits en local, tu peux les envoyer sur le dép
 
   <img src="../assets/pull-push.png" alt="Bouton “pull” avec deux flèches">
 </div>
+
+<div class="note">
+  <header>Publier une nouvelle branche</header>
+  <p>Note que si tu travailles sur une <a href="../branches/manage#créer-une-branche">nouvelle branche</a>, GitHub Desktop affichera à la place du bouton <em>push</em> un bouton <strong>Publish branch</strong>. Il fait sensiblement la même chose, mais en plus il va créer la nouvelle branche sur le dépôt distant.</p>
+
+  <img src="../assets/publish-branch.png" alt="Bouton “Publish branch” dans GitHub Desktop">
+</div>

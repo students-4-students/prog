@@ -22,4 +22,8 @@ Pendant ce temps, les autres branches pourront évoluer librement chacune de leu
 
 ![Fonctionnement des branches sous Git](../assets/branches.svg)
 
+
+<hr>
+
 [^1]: Le nom utilisé par défaut pour la branche principal a longtemps été *master*. Ce nom est actuellement en train d’être remplacé par *main* pour éviter la terminologie liée à l’esclavagisme (*maître*/*esclave*) dont il était issu. Les nouveaux dépôts créés sur GitHub ou avec GitHub Desktop <a href="https://github.com/github/renaming" target="_blank">utilisent désormais *main*</a>, et un changement similaire est en train d’être effectué <a href="https://lore.kernel.org/git/xmqqa6vf437i.fsf@gitster.c.googlers.com/T/#t" target="_blank">dans Git lui-même</a>.
+
