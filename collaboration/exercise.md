@@ -57,6 +57,7 @@ Une fois que tu as effectué la modification, assure-toi qu’elle est sur ton d
 
 ## Sont passés par là
 * Nicolas Ettlin
+* Antoine Tran
 
 <!-- ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑ ↑  ↑  ↑  ↑  ↑  ↑
 Écris ton nom ou pseudonyme en dessous des autres,
