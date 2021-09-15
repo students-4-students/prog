@@ -10,7 +10,7 @@ permalink: /collaboration/exercise
   Rends-toi tout à la fin pour y inscrire ton nom.
 ------------------------------------------------------>
 
-# Exercice : modifie ce site
+# Exercice : modifie ce site <small title="Difficulté : moyen">★★☆</small>
 {: .no_toc }
 
 Félicitations, tu es presque au bout ! Nous allons terminer par un gros exercice dans lequel
