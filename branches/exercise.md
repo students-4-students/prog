@@ -63,3 +63,27 @@ Nous allons faire de même dans IntelliJ IDEA afin de pouvoir modifier les fichi
   <header>Vérification</header>
   <p>Dans la <a href="../intellij-idea/ui#palettes-doutils">vue <em>Project</em></a>, tu dois normalement apercevoir (entre autres) le fichier <code>courses.txt</code>.</p>
 </div>
+
+## Déroulement
+Le dépôt que tu as téléchargé est un recueil de conseils pour manger à Lausanne. Des ajouts de contenu ont été effectués sur d’autres branches. Nous allons les rapatrier sur la branche principale.
+
+<div class="note">
+  <header>Note</header>
+  <p>Le contenu du dépôt est extrait d’un super document de conseils, que tu peux lire en entier <a href="https://drive.google.com/file/d/1CalWP-mD3B91QcW1-NZHBb2zySgkc_h1/view" target="_blank"><strong>sur le drive de Students 4 Students</strong></a> !</p>
+</div>
+
+### Changer de branche <small title="Difficulté : simple">★☆☆</small>
+Actuellement, tu te situes sur la branche *main*. Rends-toi sur la branche `partie-recettes`.
+
+<div class="check">
+  <header>Vérification</header>
+  <p>Dans IntelliJ IDEA, vérifie que tu as bien un dossier <code>recettes</code> qui comprend trois éléments.</p>
+</div>
+
+### Merge sans conflits <small title="Difficulté : simple">★☆☆</small>
+On aimerait intégrer les recettes à la branche principale. Fais-le en fusionnant la branche `partie-recettes` dans la branche `main`.
+
+### Merge avec conflits <small title="Difficulté : moyen">★★☆</small>
+La branche `add-denner` ajoute une nouvelle entrée à la liste des supermarchés. Or, un conflit se produit car d’autres magasins ont été ajoutés au même endroit sur la branche principale depuis la création de la branche.
+
+Fusionne la branche `add-denner` dans la branche `main` en réglant les conflits !
