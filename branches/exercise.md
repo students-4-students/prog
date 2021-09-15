@@ -1,0 +1,65 @@
+---
+layout: default
+title: Exercice récapitulatif
+parent: "Partie 4 : Branches"
+nav_order: 3
+permalink: /branches/exercise
+---
+
+# Exercice récapitulatif
+{: .no_toc }
+
+Maintenant, nous allons exercer tout ce que tu as vu sur les branches.
+
+<hr>
+## Table des matières
+{: .no_toc.text-delta }
+1. TOC
+{:toc}
+<hr>
+
+## Préparatifs
+Pour cet exercice, tu vas devoir télécharger un dépôt que nous avons préparé. Il contient déjà des commits et des branches.
+
+<span class="fs-5">
+  <a class="btn btn-green" href="../assets/guide-bouffe.zip" download>
+    ↓ Télécharger <small>(.zip, 51 ko)</small>
+  </a>
+</span>
+
+Une fois l’archive Zip téléchargée, décompresse-la.
+
+<div class="warning">
+  <header>Bonnes pratiques</header>
+  <p>
+    En général, ce n’est pas une bonne idée de télécharger un dépôt via une archive Zip ! Les fichiers cachés créés par Git ne sont pas conçus pour être partagés. Ici, nous te faisons télécharger le dossier pour simuler ce que tu aurais pu faire avec tes connaissances actuelles. À la place, il vaut mieux le <a href="../collaboration/remote">cloner</a>, comme nous le verrons dans la partie suivante.
+  </p>
+</div>
+
+### Ajouter le dépôt à GitHub Desktop
+Maintenant que tu as le dossier `guide-bouffe`, nous allons l’ajouter dans GitHub Desktop.
+
+Sélectionne **Current Repository** en haut à gauche pour ouvrir le **sélecteur de dépôt**. Depuis cet encart, tu peux basculer rapidement entre tes différents projets.
+
+![“Add Existing Repository” dans le sélectionneur de dépôt](../assets/add-repo.png)
+
+Clique alors sur **Add** > **Add Existing Repository…**. Sélectionne l’emplacement du dossier `guide-bouffe` que tu as téléchargé, puis confirme en cliquant sur **Add Repository**.
+
+<div class="check">
+  <header>Vérification</header>
+  <p>Une fois que tu as bien ajouté le dépôt, tu devrais voir en haut à gauche <em>Current Repository: guide-bouffe</em>.</p>
+</div>
+
+### Ouvrir le dépôt depuis IntelliJ IDEA
+Nous allons faire de même dans IntelliJ IDEA afin de pouvoir modifier les fichiers.
+
+* Sélectionne le menu *Open*. Tu peux le trouver comme ceci :
+  * Si tu viens d’ouvrir IntelliJ IDEA et que tu es sur l’**écran de démarrage**, clique sur le bouton **Open** qu’il contient.
+  * Si un projet est déjà ouvert, rends-toi dans le menu **File** > **Open…**.
+* Sélectionne le dossier `guide-bouffe` puis confirme.
+* IntelliJ IDEA te demande si tu veux ouvrir le projet dans une nouvelle fenêtre ou remplacer la fenêtre du projet actuel. Choisis ce que tu préfères !
+
+<div class="check">
+  <header>Vérification</header>
+  <p>Dans la <a href="../intellij-idea/ui#palettes-doutils">vue <em>Project</em></a>, tu dois normalement apercevoir (entre autres) le fichier <code>courses.txt</code>.</p>
+</div>
