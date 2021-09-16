@@ -9,7 +9,7 @@ permalink: /branches/exercise
 # Exercice récapitulatif
 {: .no_toc }
 
-Maintenant, nous allons exercer tout ce que tu as vu sur les branches.
+Dans cet exercice, tu vas exercer tout ce que tu as vu sur les branches.
 
 <hr>
 ## Table des matières
@@ -23,7 +23,7 @@ Pour cet exercice, tu vas devoir télécharger un dépôt que nous avons prépar
 
 <span class="fs-5">
   <a class="btn btn-green" href="../assets/guide-bouffe.zip" download>
-    ↓ Télécharger <small>(.zip, 51 ko)</small>
+    ↓ Télécharger <small>(.zip, 87 ko)</small>
   </a>
 </span>
 
@@ -80,10 +80,24 @@ Actuellement, tu te situes sur la branche *main*. Rends-toi sur la branche `part
   <p>Dans IntelliJ IDEA, vérifie que tu as bien un dossier <code>recettes</code> qui comprend trois éléments.</p>
 </div>
 
-### Merge sans conflits <small title="Difficulté : simple">★☆☆</small>
-On aimerait intégrer les recettes à la branche principale. Fais-le en fusionnant la branche `partie-recettes` dans la branche `main`.
+### Fusion sans conflits <small title="Difficulté : simple">★☆☆</small>
+On aimerait intégrer les recettes à la branche principale. Fais-le en fusionnant la branche `partie-recettes` dans la branche `main`[^1].
 
-### Merge avec conflits <small title="Difficulté : moyen">★★☆</small>
+[^1]: Lors de nos essais, GitHub Desktop a affiché qu’il y a des conflits dans ce merge, alors qu’il n’y en a pas. Cela a tout l’air d’être un bug, tu peux ignorer l’avertissement qui s’affiche.
+
+<div class="check">
+  <header>Vérification</header>
+  <p>Vérifie dans GitHub Desktop que tu te trouves bien sur la branche <code>main</code>. Dans l’historique des commits, le dernier commit doit être “<em>Merge branch 'partie-recettes' into main</em>”.</p>
+</div>
+
+### Fusion avec conflits <small title="Difficulté : moyen">★★☆</small>
 La branche `add-denner` ajoute une nouvelle entrée à la liste des supermarchés. Or, un conflit se produit car d’autres magasins ont été ajoutés au même endroit sur la branche principale depuis la création de la branche.
 
-Fusionne la branche `add-denner` dans la branche `main` en réglant les conflits !
+Fusionne la branche `add-denner` dans la branche `main` en réglant les conflits. Les deux paragraphes ajoutés doivent se trouver dans le résultat final. La phrase introductrice a été modifiée deux fois : à toi de la réécrire pour que toutes les informations ajoutées s’y trouvent.
+
+<div class="check">
+  <header>Vérification</header>
+  <p>Vérifie dans GitHub Desktop que tu te trouves bien sur la branche <code>main</code> et qu’il n’y a aucun changement en attente de commit. Ouvre le fichier <code>courses.txt</code> depuis IntelliJ IDEA et vérifie que tout le contenu ajouté s’y trouve.</p>
+</div>
+
+## Notes de bas de page
