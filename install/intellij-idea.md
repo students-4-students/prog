@@ -103,6 +103,8 @@ Si tu n’es pas en faculté IC, il existe également des versions d’IntelliJ 
   </tr>
 </table>
 
+Ces variantes utilisent en interne la même base logicielle qu’Intellij IDEA, en ajoutant des fonctionalités spécifiques à un langage particulier (ex : le langage Python pour la variante PyCharm). Si tu veux coder dans plusieurs langages différents, tu peux installer Intellij puis ajouter des plugins qui permettent de supporter les langages en question. Par exemple, installer Intellij avec le plugin pour Python permet de coder en Python et en Java avec le même logiciel, et c’est plus malin que d’installer séparément Intellij et Pycharm&nbsp;! Ceci dit, tu ne devrais avoir besoin que d’un seul langage, qui dépendra de ta section. Tu peux donc simplement installer l’IDE qui le supporte par défaut.
+
 ## Installation
 
 <a name="idea-ce"></a>
