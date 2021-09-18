@@ -33,7 +33,7 @@ Nous allons ajouter un fichier au dossier `src`. Pour cela, fais un clic droit s
 
 ![Création du fichier](../assets/file-created.png)
 
-IntelliJ IDEA génère automatiquement l'entête de la classe comme ci-dessus. Il ne reste plus qu'à écrire notre code.
+IntelliJ IDEA génère automatiquement l'entête de la classe comme ci-dessus. Il ne reste plus qu'à écrire notre code. À ce stade, tu n’as pas besoin de savoir ce qu’est une classe. Ne t’inquiète pas, ce sera expliqué en classe ce semestre&nbsp;!
 
 ## Écrire le programme
 Maintenant, écrivons le contenu de notre programme. Si tu ne comprends pas bien comment tout cela marche, ce n’est pas grave, les détails te seront expliqués ce semestre.
@@ -69,7 +69,7 @@ Ton programme est prêt à être exécuté, testons le dès à présent.
 
 Si tu regardes bien dans le coin supérieur droit, tu peux trouver une sorte de bouton « play » grisé. Tu pourras l’utiliser dans le futur pour lancer ton programme, mais il est pour le moment inopérant car aucune exécution n’a été configurée.
 
-Pour configurer l’exécution de ton programme, clique sur l'un des deux boutons « play » situés juste à la gauche de ton code, puis *Run 'HelloWorld.main()'*. Cela va directement exécuter la fonction `main`.
+Pour configurer l’exécution de ton programme, clique sur l'un des deux boutons « play » situés juste à la gauche de ton code, puis *Run 'HelloWorld.main()'*. Cela va directement exécuter la fonction `main` (tu verras en cours ce qu’est exactement une fonction).
 
 ![Résultat d'exécution du programme](../assets/hello-world.png)
 
