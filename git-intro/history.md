@@ -18,3 +18,12 @@ GitHub Desktop te permet de visualiser cela dans un écran dédié. Pour l’ouv
 Lorsque tu sélectionnes un fichier modifié contenant du code les lignes ajoutées s’affichent en vert, et celles qui ont été supprimées sont en rouge. Et lorsque tu sélectionnes une image, GitHub Desktop affiche une vue permettant de voir visuellement les différences.
 
 ![Affichage des modifications effectuées sur une image](../assets/diff-image.png)
+
+## Trouver l’origine d’une modification
+Git offre une autre fonctionnalité intéressante appelée **blame**. Elle permet de savoir dans quel commit une ligne de code de ton projet a été écrite. Nous allons utiliser la fonctionnalité intégrée dans IntelliJ IDEA pour le faire.
+
+Ouvre un fichier de ton choix dans IntelliJ IDEA. Dans la [recherche globale](../intellij-idea/ui#recherche-globale), écris `blame` puis active **Git \| Current File: Annotate with Git Blame**.
+
+Dans la colonne de gauche, la date et l’auteur/autrice du commit sont indiqués. Tu peux cliquer dessus pour voir les autres détails (message, description, fichiers modifiés…).
+
+![Affichage d’un “blame” dans IntelliJ IDEA](../assets/blame.png)
