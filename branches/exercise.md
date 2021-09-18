@@ -83,7 +83,7 @@ Actuellement, tu te situes sur la branche *main*. Rends-toi sur la branche `part
 ### Fusion sans conflits <small title="Difficulté : simple">★☆☆</small>
 On aimerait intégrer les recettes à la branche principale. Fais-le en fusionnant la branche `partie-recettes` dans la branche `main`[^1].
 
-[^1]: Lors de nos essais, GitHub Desktop a affiché qu’il y a des conflits dans ce merge, alors qu’il n’y en a pas. Cela a tout l’air d’être un bug, tu peux ignorer l’avertissement qui s’affiche.
+[^1]: GitHub Desktop affichera qu’il y a des conflits dans ce merge, alors qu’il n’y en a pas. C’est un <a href="https://github.com/desktop/desktop/issues/8049" target="_blank">bug connu</a>, tu peux ignorer l’avertissement qui s’affiche.
 
 <div class="check">
   <header>Vérification</header>
