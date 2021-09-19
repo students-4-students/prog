@@ -100,11 +100,11 @@ Si tu aimerais apporter une suggestion à un endroit du code, tu peux cliquer su
 </div>
 
 ## Appliquer une *pull request*
-Quand la *pull request* est prête, un encart situé en bas de l’onglet *Conversation* te permet d’effectuer le transfert des modifications entre les branches.
+Quand la *pull request* est prête, un encadré situé en bas de l’onglet *Conversation* te permet d’effectuer le transfert des modifications entre les branches.
 
 Clique sur le bouton vert (par défaut **Merge pull request**), puis sur le bouton de confirmation. Et voilà, la *pull request* a été appliquée !
 
-![Encart de fusion](../assets/pr-merge.png)
+![Encadré de fusion](../assets/pr-merge.png)
 
 <div class="note">
   <header>Modes de fusion</header>

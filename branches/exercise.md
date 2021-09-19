@@ -39,7 +39,7 @@ Une fois l’archive Zip téléchargée, décompresse-la.
 ### Ajouter le dépôt à GitHub Desktop
 Maintenant que tu as le dossier `guide-bouffe`, nous allons l’ajouter dans GitHub Desktop.
 
-Sélectionne **Current Repository** en haut à gauche pour ouvrir le **sélecteur de dépôt**. Depuis cet encart, tu peux basculer rapidement entre tes différents projets.
+Sélectionne **Current Repository** en haut à gauche pour ouvrir le **sélecteur de dépôt**. Depuis cet encadré, tu peux basculer rapidement entre tes différents projets.
 
 ![“Add Existing Repository” dans le sélectionneur de dépôt](../assets/add-repo.png)
 
