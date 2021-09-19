@@ -33,7 +33,7 @@ Tu peux paramétrer précisément les permissions que tu donnes aux personnes qu
 
 ![Permissions de Code With Me](../assets/cwm-permissions.png)
 
-Depuis l’autre ordinateur, sélectionne **Join Another IDE as Participant…** dans le menu Code With Me et colle le lien. Après quelque temps, ton projet s’ouvre chez l’autre personne ! Elle peut alors se balader dans les fichiers et les modifier.
+Depuis l’autre ordinateur, sélectionne **Join Another IDE as Participant…** dans le menu Code With Me et colle le lien. Après quelques temps, ton projet s’ouvre chez l’autre personne ! Elle peut alors se balader dans les fichiers et les modifier.
 
 Tu peux voir en temps réel ce que fait ton binôme. Si tu sélectionnes son icône dans la barre du haut (à gauche du menu *Code With Me*), IntelliJ IDEA va automatiquement faire défiler le code pour aller au même endroit, et ce tant que l’icône est sélectionnée.
 
