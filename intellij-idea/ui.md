@@ -24,8 +24,8 @@ Te voilà arrivé dans la fenêtre principale d’IntelliJ IDEA. Au centre se si
 Celles qui te sont les plus utiles sont :
 * La vue ***Project*** (sur la gauche), qui affiche tous les fichiers de ton projet (code, images, sons…).
   ![Vue de projet](../assets/idea-project.png)
-* Le **terminal** (en bas) permet d'exécuter des lignes de commandes dans le dossier du projet.
-* L’onglet ***Run*** (en bas) affiche le résultat de ton programme, ce qu'il affiche. Note que cette palette ne s’affiche pas tant que tu n’as pas lancé de programme.
+* Le **terminal** (en bas) permet d'exécuter des lignes de commande dans le dossier du projet.
+* L’onglet ***Run*** (en bas) affiche le résultat de ton programme. Note que cette palette ne s’affiche pas tant que tu n’as pas lancé de programme.
 * **Problems** permet de voir l'ensemble des problèmes qu’IntelliJ IDEA détecte dans ton code. Cela peut être des erreurs (qui empêchent ton programme d’être lancé), ou des avertissements (des morceaux de code suspects qui peuvent causer un problème plus tard).
 * La palette **TODO** peut être utilisé comme une liste de tâches à réaliser : cette palette répertorie les commentaires[^1] disséminés dans le code contenant le mot `TODO` (qui vient de *to do*, *à faire* en anglais).
 
