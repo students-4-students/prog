@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Code With Me
+title: Utiliser Code With Me
 parent: Partie facultative
 nav_order: 1
 permalink: /bonus/code-with-me
 ---
 
-# *Pair programming* avec Code With Me
+# Utiliser Code With Me
 {: .no_toc }
 
 Nous allons voir maintenant un autre outil pour le travail en groupe. **Code With Me** est une fonctionnalité d’IntelliJ IDEA qui te permet de partager ton éditeur avec quelqu’un d’autre.
