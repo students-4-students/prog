@@ -18,7 +18,7 @@ Git a été créé en 2005 par Linus Torvalds (qui est aussi le créateur de Lin
 
 <div class="note">
   <header>Note</header>
-  <p>Le <em>g</em> de Git se prononce comme le <em>g</em> de <em>grenouille</em> (ou de <em>get</em> en anglais) et signifie grossièrement, en argot anglais "connard". Interrogé sur les raisons de ce choix de nom, l'auteur répondit "je ne suis qu'un sale égocentrique, donc j'appelle tous mes projets d'après ma propre personne. D'abord Linux, puis Git.".</p>
+  <p>Le <em>g</em> de Git se prononce comme le <em>g</em> de <em>grenouille</em> (ou de <em>get</em> en anglais). <em>Git</em> signifie grossièrement, en argot anglais "connard". Interrogé sur les raisons de ce choix de nom, l'auteur répondit "je ne suis qu'un sale égocentrique, donc j'appelle tous mes projets d'après ma propre personne. D'abord Linux, puis Git.".</p>
 </div>
 
 Nous pensons que cette présentation pourra t’être très utile, alors profite bien de ce merveilleux outil !
