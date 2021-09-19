@@ -9,7 +9,7 @@ permalink: /intellij-idea/run
 # Exécuter un programme
 {: .no_toc }
 
-Maintenent que le projet a été configuré et que tu as eu un aperçu des fonctionnalités d'IntelliJ IDEA, il est temps de réaliser ton premier programme en Java.
+Maintenant que le projet a été configuré et que tu as eu un aperçu des fonctionnalités d'IntelliJ IDEA, il est temps de réaliser ton premier programme en Java.
 
 <hr>
 ## Table des matières
