@@ -53,7 +53,7 @@ public class HelloWorld {
   <p>Pour écrire ce code plus rapidement, tu peux utiliser les raccourcis suivants :</p>
   <ul>
     <li>
-      <code>pvsm</code> pour écrire <code>public static void main(String[] args) { }</code>,
+      <code>psvm</code> pour écrire <code>public static void main(String[] args) { }</code>,
     </li>
     <li>
       et <code>sout</code> pour écrire <code>System.out.println();</code>.
