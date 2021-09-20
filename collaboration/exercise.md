@@ -71,7 +71,9 @@ Une fois que tu as effectué la modification, assure-toi qu’elle est sur ton d
 * mche3kek :)
 * Laggrif
 * Patrick
+* Chomusuke
 * François Goybet
+* Thomas
 * Ambroise Aigueperse
 
 <!-- ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑
