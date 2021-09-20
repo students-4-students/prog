@@ -67,6 +67,7 @@ Une fois que tu as effectué la modification, assure-toi qu’elle est sur ton d
 * Sloan Zammouri
 * Matthias Wyss
 * yassquaaa (Yassine Kachrad)
+* Léopold Galhaud
 
 <!-- ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑
 Écris ton nom ou pseudonyme en dessous des autres,
