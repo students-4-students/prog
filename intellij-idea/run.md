@@ -9,7 +9,7 @@ permalink: /intellij-idea/run
 # Exécuter un programme
 {: .no_toc }
 
-Maintenent que le projet a été configuré et que tu as eu un aperçu des fonctionnalités d'IntelliJ IDEA, il est temps de réaliser ton premier programme en Java.
+Maintenant que le projet a été configuré et que tu as eu un aperçu des fonctionnalités d'IntelliJ IDEA, il est temps de réaliser ton premier programme en Java.
 
 <hr>
 ## Table des matières
@@ -53,7 +53,7 @@ public class HelloWorld {
   <p>Pour écrire ce code plus rapidement, tu peux utiliser les raccourcis suivants :</p>
   <ul>
     <li>
-      <code>pvsm</code> pour écrire <code>public static void main(String[] args) { }</code>,
+      <code>psvm</code> pour écrire <code>public static void main(String[] args) { }</code>,
     </li>
     <li>
       et <code>sout</code> pour écrire <code>System.out.println();</code>.

@@ -25,7 +25,7 @@ Comme discuté dans la partie précédente, les branches sont des outils qui ren
 
 ## Créer une branche
 
-Pour créer une nouvelle branche, ouvre d’abord le **sélecteur de branches** en cliquant sur **Current branch** dans la barre du haut. L’encart qui s’ouvre t’affiche toutes les branches de ton projet. Clique alors sur **new branch**.
+Pour créer une nouvelle branche, ouvre d’abord le **sélecteur de branches** en cliquant sur **Current branch** dans la barre du haut. L’encadré qui s’ouvre t’affiche toutes les branches de ton projet. Clique alors sur **new branch**.
 
 ![Bouton “New branch” dans GitHub Desktop](../assets/ghd-new-branch-button.png)
 
