@@ -80,6 +80,7 @@ Une fois que tu as effectué la modification, assure-toi qu’elle est sur ton d
 * Hassen Aissa
 * Tim Kreslo
 * Wei-En HSIEH (aka Anne HSIEH)
+* Jean Perbet
 
 <!-- ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑
 Écris ton nom ou pseudonyme en dessous des autres,
