@@ -63,7 +63,9 @@ Une fois que tu as effectué la modification, assure-toi qu’elle est sur ton d
 * Hugues Devimeux
 * Thibault Czarniak
 * Khalil M'hirsi
-* Matthias Wyss 
+* Rokhaya Fall
+* Sloan Zammouri
+* Matthias Wyss
 
 <!-- ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑
 Écris ton nom ou pseudonyme en dessous des autres,
