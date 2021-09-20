@@ -45,7 +45,7 @@ Une fois que tu as *fetch* des modifications, tu peux les ***pull*** : cela va 
 </div>
 
 ## *Push* : envoyer ses modifications
-Enfin, lorsque tu as faits des commits en local, tu peux les envoyer sur le dépôt distant avec un ***push***. Lorsque c’est possible de le faire, GitHub Desktop affiche un bouton **Push origin** dans la barre du haut.
+Enfin, lorsque tu as fait des commits en local, tu peux les envoyer sur le dépôt distant avec un ***push***. Lorsque c’est possible de le faire, GitHub Desktop affiche un bouton **Push origin** dans la barre du haut.
 
 ![Le bouton “push” dans GitHub Desktop](../assets/push.png)
 
