@@ -78,6 +78,9 @@ Une fois que tu as effectué la modification, assure-toi qu’elle est sur ton d
 * Manuel Zuloaga
 * Deyan Marinov
 * Hassen Aissa
+* Tim Kreslo
+* Wei-En HSIEH (aka Anne HSIEH)
+* Jean Perbet
 * albert
 
 <!-- ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑
