@@ -82,6 +82,7 @@ Une fois que tu as effectué la modification, assure-toi qu’elle est sur ton d
 * Wei-En HSIEH (aka Anne HSIEH)
 * Jean Perbet
 * albert
+* Jeanordd
 
 <!-- ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑
 Écris ton nom ou pseudonyme en dessous des autres,
