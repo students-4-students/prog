@@ -91,9 +91,9 @@ On aimerait intégrer les recettes à la branche principale. Fais-le en fusionna
 </div>
 
 ### Fusion avec conflits <small title="Difficulté : moyen">★★☆</small>
-La branche `add-denner` ajoute une nouvelle entrée à la liste des supermarchés. Or, un conflit se produit car d’autres magasins ont été ajoutés au même endroit sur la branche principale depuis la création de la branche.
+La branche `ajout-denner` ajoute une nouvelle entrée à la liste des supermarchés. Or, un conflit se produit car d’autres magasins ont été ajoutés au même endroit sur la branche principale depuis la création de la branche.
 
-Fusionne la branche `add-denner` dans la branche `main` en réglant les conflits. Les deux paragraphes ajoutés doivent se trouver dans le résultat final. La phrase introductrice a été modifiée deux fois : à toi de la réécrire pour que toutes les informations ajoutées s’y trouvent.
+Fusionne la branche `ajout-denner` dans la branche `main` en réglant les conflits. Les deux paragraphes ajoutés doivent se trouver dans le résultat final. La phrase introductrice a été modifiée deux fois : à toi de la réécrire pour que toutes les informations ajoutées s’y trouvent.
 
 <div class="check">
   <header>Vérification</header>
