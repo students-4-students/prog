@@ -16,7 +16,7 @@ Pour l’instant, tout cela peut te sembler très abstrait, alors voici un exemp
 
 Lorsque tu as [initialisé le dépôt](../git-intro/init), tu t’es retrouvé sur sa **branche principale** qui est nommée dans la plupart des projets *main* ou *master*[^1]. Cette branche contiendra la version la plus stable de ton logiciel, où toutes les fonctionnalités sont achevées (donc la version que tu distribueras aux personnes qui utilisent ton programme).
 
-Maintenant, disons que tu veuilles développer une nouvelle fonctionnalité. Tu crées donc une **nouvelle branche** portant le nom de ta fonctionnalité, disons *ma-super-fonctionnalité*. Selon son ampleur, il faudra peut-être plusieurs commits pour la finaliser, que tu effectueras tous sur cette branche.
+Maintenant, disons que tu veux développer une nouvelle fonctionnalité. Tu crées donc une **nouvelle branche** portant le nom de ta fonctionnalité, disons *ma-super-fonctionnalité*. Selon son ampleur, il faudra peut-être plusieurs commits pour la finaliser, que tu effectueras tous sur cette branche.
 
 Pendant ce temps, les autres branches pourront évoluer librement chacune de leur côté (ce qui sera très pratique si tu travailles à plusieurs !). Une fois ton travail achevé, tu pourras fusionner la branche *ma-super-fonctionnalité* dans la branche principale, pour que toutes les modifications que tu as faites s’y retrouvent. Cela fonctionne même si d’autres modifications ont été faites entre temps sur la branche principale !
 
