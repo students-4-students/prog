@@ -78,6 +78,7 @@ Une fois que tu as effectué la modification, assure-toi qu’elle est sur ton d
 * Manuel Zuloaga
 * Deyan Marinov
 * Hassen Aissa
+* Ghalia Bennani
 
 <!-- ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑
 Écris ton nom ou pseudonyme en dessous des autres,
