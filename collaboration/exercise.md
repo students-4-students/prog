@@ -81,6 +81,8 @@ Une fois que tu as effectué la modification, assure-toi qu’elle est sur ton d
 * Tim Kreslo
 * Wei-En HSIEH (aka Anne HSIEH)
 * Jean Perbet
+* albert
+* Jeanordd
 * Jean-Ulysse Verdan
 
 <!-- ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑
