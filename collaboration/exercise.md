@@ -75,6 +75,7 @@ Une fois que tu as effectué la modification, assure-toi qu’elle est sur ton d
 * François Goybet
 * Thomas
 * Ambroise Aigueperse
+* Manuel Zuloaga
 
 <!-- ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑
 Écris ton nom ou pseudonyme en dessous des autres,
