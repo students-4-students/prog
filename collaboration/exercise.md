@@ -84,6 +84,10 @@ Une fois que tu as effectué la modification, assure-toi qu’elle est sur ton d
 * albert
 * Jeanordd
 * Antoine Buttier
+* Jean-Ulysse Verdan
+* Ghalia Bennani
+* Aya
+* Sébastien Kobler
 
 <!-- ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑
 Écris ton nom ou pseudonyme en dessous des autres,
