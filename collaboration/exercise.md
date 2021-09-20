@@ -84,6 +84,7 @@ Une fois que tu as effectué la modification, assure-toi qu’elle est sur ton d
 * albert
 * Jeanordd
 * Jean-Ulysse Verdan
+* Ghalia Bennani
 
 <!-- ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑
 Écris ton nom ou pseudonyme en dessous des autres,
