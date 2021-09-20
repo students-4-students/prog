@@ -64,6 +64,8 @@ Une fois que tu as effectué la modification, assure-toi qu’elle est sur ton d
 * Thibault Czarniak
 * Khalil M'hirsi
 * Rokhaya Fall
+* Sloan Zammouri
+
 <!-- ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑
 Écris ton nom ou pseudonyme en dessous des autres,
 en commençant par “* ” (astérisque + espace).
