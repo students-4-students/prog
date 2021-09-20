@@ -68,6 +68,7 @@ Une fois que tu as effectué la modification, assure-toi qu’elle est sur ton d
 * Matthias Wyss
 * yassquaaa (Yassine Kachrad)
 * Léopold Galhaud
+* mche3kek :)
 
 <!-- ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑  ↑
 Écris ton nom ou pseudonyme en dessous des autres,
