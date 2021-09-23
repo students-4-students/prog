@@ -20,10 +20,10 @@ Nous avons choisi d’utiliser une interface graphique dans le but de simplifier
 ### Téléchargement
 
 #### Sous Windows
-Rends-toi sur <a href="https://desktop.github.com" target="_blank">github.desktop.com</a>, et clique sur **Download for Windows (64bit)**. Ensuite, ouvre le fichier *.exe* téléchargé.
+Rends-toi sur <a href="https://desktop.github.com" target="_blank">desktop.github.com</a>, et clique sur **Download for Windows (64bit)**. Ensuite, ouvre le fichier *.exe* téléchargé.
 
 #### Sous Mac
-Rends-toi sur <a href="https://desktop.github.com" target="_blank">github.desktop.com</a>, et clique sur **Download for macOS** (ou sur *Apple silicon machines* si ton Mac a une [puce M1](https://support.apple.com/en-us/HT211814)). Ensuite, ouvre l’application *GitHub Desktop* téléchargée.
+Rends-toi sur <a href="https://desktop.github.com" target="_blank">desktop.github.com</a>, et clique sur **Download for macOS** (ou sur *Apple silicon machines* si ton Mac a une [puce M1](https://support.apple.com/en-us/HT211814)). Ensuite, ouvre l’application *GitHub Desktop* téléchargée.
 
 Si un message *“Move GitHub Desktop to the Applications folder?”* apparaît, clique sur le bouton **Move and Restart**.
 
