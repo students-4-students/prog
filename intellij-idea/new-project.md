@@ -19,7 +19,7 @@ Pour pouvoir développer des applications en Java, tu vas devoir installer une v
 * Assure-toi que *Java* est sélectionné dans la colonne de gauche, puis sélectionne **Download JDK** dans le menu déroulant *Project SDK*.
   ![Emplacement de “Download JDK”](../assets/jdk-download.png)
 
-* Une fenêtre d'options va apparaître. Sélectionne la **version 11** (c’est celle qui va être utilisée en cours), et **AdoptOpenJDK OpenJ9** sous *Vendor*. Tu n’as pas besoin de modifier le dossier d'installation. Clique ensuite sur **Download**.
+* Une fenêtre d'options va apparaître. Sélectionne la **version 17** (c’est celle qui va être utilisée en cours), et **Oracle OpenJDK** sous *Vendor*. Tu n’as pas besoin de modifier le dossier d'installation. Clique ensuite sur **Download**.
   ![Les options à spécifier](../assets/jdk-options.png)
 
 * Une fois le JDK installé, sélectionne deux fois *Next* pour arriver à l’écran ci-dessous. Nous intitulerons le projet **hello-world**. Tu peux décider de créer le projet dans le dossier que tu souhaites avec *Project location*. Il n’est pas nécessaire de toucher les réglages dans la partie *More Settings*.
