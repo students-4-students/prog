@@ -15,9 +15,9 @@
   </p>
 
   <p align="center">
-    Instructions pour le jour « programmation » de l’initiative <a href="https://s4s.fun">Students 4 Students</a>.
+    Instructions pour le jour « programmation » de l’initiative <a href="https://students4students.ch">Students 4 Students</a>.
     <br />
-    <a href="https://prog.s4s.fun/"><strong>Voir le site »</strong></a>
+    <a href="https://git.students4students.ch/"><strong>Voir le site »</strong></a>
   </p>
 </p>
 
