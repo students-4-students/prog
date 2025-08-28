@@ -39,3 +39,5 @@ gem "kramdown-parser-gfm"
 
 # Theme
 gem "just-the-docs"
+
+gem "webrick", "~> 1.9"

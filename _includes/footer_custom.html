@@ -1,41 +1,44 @@
 {%- comment -%}
-  Gather all pages by their order in the navigation menu.
+  Gather all pages in the current section, ordered as in the sidebar (parent, then children).
 {%- endcomment -%}
 
-{%- assign all_pages_nav_order = site.pages | where: "path", "index.md" %}
-
 {%- assign all_pages = site.html_pages
+  | where: "section", page.section
   | where_exp: "item", "item.title != nil"
   | where_exp: "item", "item.nav_order != nil" -%}
 
-{%- assign nav_groups = all_pages
+{%- assign root_page = all_pages
   | where_exp: "item", "item.parent == nil"
+  | sort: "nav_order"
+  | first -%}
+
+{%- assign nav_groups = all_pages
+  | where_exp: "item", "item.parent == root_page.title"
   | sort: "nav_order" -%}
 
+{%- assign all_pages_nav_order = "" | split: "" -%}
+{%- assign all_pages_nav_order = all_pages_nav_order | push: root_page %}
 {%- for group in nav_groups -%}
   {%- assign page_children = all_pages
     | where: "parent", group.title
     | sort: "nav_order" %}
-
   {%- assign all_pages_nav_order = all_pages_nav_order | push: group %}
   {%- assign all_pages_nav_order = all_pages_nav_order | concat: page_children %}
 {%- endfor -%}
 
-{%- comment -%}
-  Get the page right after the current one.
-{%- endcomment -%}
-
-{% assign previous_item = nil %}
-{%- for item in all_pages_nav_order -%}
-  {% if previous_item != nil and previous_item.permalink == page.permalink %}
-    {% assign next_page = item %}
-
-    <a href="{{ next_page.url | relative_url }}" class="next-page">
-      <header class="text-delta">Prochaine page</header>
-      <div class="fw-500 fs-4">{{ next_page.title }}</div>
-      <span role="presentation">→</span>
-    </a>
-  {% endif %}
-
-  {% assign previous_item = item %}
-{%- endfor -%}
+{% if page.url == "/" %}
+  {%- comment -%} Skip the "next page" link if it's the homepage. {%- endcomment -%}
+{% else %}
+  {%- assign previous_item = nil -%}
+  {%- for item in all_pages_nav_order -%}
+    {% if previous_item != nil and previous_item.url == page.url %}
+      {% assign next_page = item %}
+      <a href="{{ next_page.url | relative_url }}" class="next-page">
+        <header class="text-delta">Prochaine page</header>
+        <div class="fw-500 fs-4">{{ next_page.title }}</div>
+        <span role="presentation">→</span>
+      </a>
+    {% endif %}
+    {% assign previous_item = item %}
+  {%- endfor -%}
+{% endif %}

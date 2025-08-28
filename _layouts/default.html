@@ -64,11 +64,11 @@ layout: table_wrappers
             {% if collections_size > 1 %}
               <div class="nav-category">{{ collection_value.name }}</div>
             {% endif %}
-            {% include nav.html pages=collection %}
+            {% include components/site_nav.html pages=collection %}
           {% endif %}
         {% endfor %}
       {% else %}
-        {% include nav.html pages=site.html_pages %}
+        {% include components/site_nav.html pages=site.html_pages %}
       {% endif %}
     </nav>
   </div>
@@ -103,6 +103,11 @@ layout: table_wrappers
       {% endif %}
     </div>
     <div id="main-content-wrap" class="main-content-wrap">
+      {%- assign pages_list = site.html_pages
+        | where: "section", page.section
+        | where_exp: "item", "item.title != nil"
+        | where_exp: "item", "item.nav_order != nil"
+      -%}
       {% unless page.url == "/" %}
         {% if page.parent %}
           {%- for node in pages_list -%}
@@ -144,10 +149,22 @@ layout: table_wrappers
           <hr>
           <h2 class="text-delta">Table des matières</h2>
           <ul>
-            {%- assign children_list = pages_list | where: "parent", page.title | where: "grand_parent", page.parent -%}
+            {%- assign children_list = pages_list | where: "parent", page.title | sort: "nav_order" -%}
             {% for child in children_list %}
               <li>
-                <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>{% if child.summary %} - {{ child.summary }}{% endif %}
+                <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>
+                {% assign subchildren = pages_list | where: "parent", child.title | sort: "nav_order" %}
+                {% if subchildren.size > 0 %}
+                  <ul>
+                    {% for subchild in subchildren %}
+                      <li>
+                        <a href="{{ subchild.url | absolute_url }}">{{ subchild.title }}</a>
+                        {% if subchild.summary %} - {{ subchild.summary }}{% endif %}
+                      </li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+                {% if child.summary %} - {{ child.summary }}{% endif %}
               </li>
             {% endfor %}
           </ul>
